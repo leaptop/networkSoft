@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab1_DS_0.dir/client.c.o  -o lab1_DS_0 

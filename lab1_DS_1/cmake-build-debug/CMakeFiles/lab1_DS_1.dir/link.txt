@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab1_DS_1.dir/server.c.o  -o lab1_DS_1 

@@ -1,0 +1,3 @@
+/home/stepa/netsoft/lab1_0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stepa/netsoft/lab1_0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stepa/netsoft/lab1_0/cmake-build-debug/CMakeFiles/lab1_0.dir

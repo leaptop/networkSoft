@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab3_DS_server.dir/server.c.o  -o lab3_DS_server 

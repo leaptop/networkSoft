@@ -1,0 +1,3 @@
+/home/stepa/netsoft/lab3_DS_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stepa/netsoft/lab3_DS_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stepa/netsoft/lab3_DS_server/cmake-build-debug/CMakeFiles/lab3_DS_server.dir

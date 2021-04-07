@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepa/netsoft/lab1_0/main.cpp
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+stdlib.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+

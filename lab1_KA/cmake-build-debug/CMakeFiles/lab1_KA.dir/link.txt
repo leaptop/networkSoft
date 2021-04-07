@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/lab1_KA.dir/client.c.o CMakeFiles/lab1_KA.dir/func.c.o CMakeFiles/lab1_KA.dir/server.c.o  -o lab1_KA 

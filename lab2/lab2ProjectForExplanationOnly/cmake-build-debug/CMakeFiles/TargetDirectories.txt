@@ -1,0 +1,3 @@
+/home/stepa/netsoft/lab2/lab2ProjectForExplanationOnly/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stepa/netsoft/lab2/lab2ProjectForExplanationOnly/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stepa/netsoft/lab2/lab2ProjectForExplanationOnly/cmake-build-debug/CMakeFiles/lab2ProjectForExplanationOnly.dir
